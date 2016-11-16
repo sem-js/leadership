@@ -1,5 +1,7 @@
 # SEM.js Leadership
 
+[![Join the chat at https://gitter.im/sem-js/leadership](https://badges.gitter.im/sem-js/leadership.svg)](https://gitter.im/sem-js/leadership?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Existing Leaders
 - Maddy Andrade
   - Jobs Director
