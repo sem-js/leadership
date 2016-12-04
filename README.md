@@ -18,14 +18,13 @@
   - Communications Director
 
 ## Documents we need to create:
-- Vision
 - 5 year plan
 - Costs of doing business
 
 ## Current director roles we need to define:
 ### Vision Director
 *6-8 hours a month*
-This role involves defining the future vision for the meetup group, is the final say on most decisions regarding direction and high level planning, and helps direct and answer questions for others in their roles; this role also can seek out new leadership members or define new roles as needed; this role would produce at least the first draft of the vision and 5 year plan  (all of these activities/decisions will be made in conjunction with the rest of the leadership team).
+This role involves defining the [vision](vision.md) for the meetup group as well as the [future](future.md) of the group.  The Vision Director helps lead consensus decisions regarding direction and high level planning, and helps direct and answer questions for others in their roles; this role also can seek out new leadership members or define new roles as needed; this role would produce at least the first draft of the vision and 5 year plan  (all of these activities/decisions will be made in conjunction with the rest of the leadership team).
 
 This role also brainstorms future project/activity/program possibilities, as well as discusses/communicates these new ideas with the rest of the leadership team; this role also should enable these programs to happen, whether it be by making a plan and directing the program themselves, or finding someone who is willing and able to make the program happen.
 
