@@ -3,6 +3,12 @@ Talks and Presentations
 
 We would love for all of our members to feel empowered to give a talk at one of our meetings!  If you have some ideas, let us know!  Everyone can bring something new to a topic, so don't think you have nothing to say (see this video: I Have Nothing to Say: https://www.youtube.com/watch?v=MLdhamQlFfg&feature=youtu.be)  Below are a few resources and tips to help get you started.
 
+Talk Formats:
+-------------
+Currently, two talk formats are available (although we are thinking of adding a third "medium-format" talk length):
+* lightning talk - this is a short format talk, typically between 5-15 minutes
+* full length talk - this talk is a full length talk, typically 60-90 minutes
+
 Writing/research:
 -----------------
 * Everyone has a unique angle on any topic, so you always have something to bring to a subject
@@ -48,7 +54,6 @@ Presenting:
 * It's ok (and encouraged) to have meaningful pauses in your talk; this allows the audience to be better able to take in what you are saying (taking a drink of water is a good way to take a pause)
 * Don't forget to breath!
 * Also, keep in mind, you totally got this! ;)
-
 
 Links and Resources:
 --------------------
