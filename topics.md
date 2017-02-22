@@ -95,7 +95,10 @@ Specific tool/framework/library topics
 * StealJS
 * Webpack
 
-Soft talk topics (shorter format talks):
+Soft talk topics
+----------------
+*shorter format talks*
+
 * open source
 * community
 * imposter syndrome
