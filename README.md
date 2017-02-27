@@ -91,6 +91,8 @@ This role involves internal (for group members) and external (meetup group "imag
 
 This role involves maintaining the study group meeting; this involves making attendees feel welcome at the study group, answer questions, give them help or resources as needed, directing discussion, and possibly leading the way for the study group project that is currently underway.  This role could also involves brainstorming future project/activity possibilities; this role currently also secures food/venue for the study group meeting
 
+[Repo and more information](https://github.com/sem-js/study-group)
+
 ### Finances Director ???
 *0 hours a month*
 
