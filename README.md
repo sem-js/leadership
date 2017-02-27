@@ -3,19 +3,26 @@
 [![Join the chat at https://gitter.im/sem-js/leadership](https://badges.gitter.im/sem-js/leadership.svg)](https://gitter.im/sem-js/leadership?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Existing Leaders
-- Maddy Andrade
-  - Jobs Director
-- Dennis Burton
-  - Venue Director
-- Miguel Castillo
-  - Study Group Director
-- John Chapman
-  - AV Director
-- Brian Genisio
-  - High Level Delegator
-  - Sponsorship Director
-  - Programs Director
-  - Communications Director
+* Vision Director
+    * Miguel Castillo
+* Sponsorship Director
+    * Matt Morgan
+* Venue Director
+    * Dennis Burton
+* Jobs Director
+    * Maddy Andrade
+* Programs Director
+    * Ryan Lanciaux
+    * Ian VanSchooten (assisting)
+* AV Director
+    * John Chapman
+    * Ian VanSchooten (shadowing)
+* Communications Director
+    * Miguel Castillo
+    * Danielle Closs (assisting)
+* Study Group Director (shared)
+    * Danielle Closs
+    * Matt Morgan
 
 ## Documents we need to create:
 - 5 year plan
