@@ -37,7 +37,7 @@ Here are a few recommendations, if you really have no idea what to try out.
 
 Also, you may want to read up on Compiled versus Interpreted languages, to have a good understanding of what those terms mean.
 
-This chart might give you some ideas on how to branch out in technologies: [https://github.com/kamranahmedse/developer-roadmap](developer roadmap)
+This chart might give you some ideas on how to branch out in technologies: https://github.com/kamranahmedse/developer-roadmap
 
 
 Basic programming concepts
