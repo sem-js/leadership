@@ -24,16 +24,20 @@ Pick any language that interests you to get started.  If you are interested and 
 Here are a few recommendations, if you really have no idea what to try out.
 
 ### General purpose ###
-* Python - is a complied language; many people really love the ease of use and straightforwardness of Python, so I recommend it as a good starting language.  Python is used at the command line, but it is pretty easy to get started with.
+* Python (https://www.python.org/) - is a complied language; many people really love the ease of use and straightforwardness of Python, so I recommend it as a good starting language.  Python is used at the command line, but it is pretty easy to get started with.
+
 
 ### Frontend ###
-* Javascript - is an interpreted language and if you are doing any kind of frontend development, likely Javascript is involved.  Also, the bar to entry is low, you just need a plain text editor and a browser.
+* Javascript (https://www.javascript.com/) - is an interpreted language and if you are doing any kind of frontend development, likely Javascript is involved.  Also, the bar to entry is low, you just need a plain text editor and a browser.
+* HTML (https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) - essential for frontend work, HTML is the part of the UI in the browser that gives web pages their structure
+* CSS (https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics) - essential for frontend work, CSS is the part of the UI in the browser that gives web pages their styling, color, size, font, etc.
+
 
 ### Backend ###
-* PHP - is an interpreted language that has grown up with the web, and the newest version, PHP7, is much more solid than older versions.  The nice thing about PHP is it is not compiled, so it has a low bar to entry (like Javascript.) Also, much of the web is using PHP, so having some experience with PHP may help you get work later on.
-* Java - is a compiled language that is cross platform, it takes a little more to get setup with Java.  But due to it being cross platform, it is a good choice for development on the web
-* C# - is a compiled language, and is currently a Microsoft only language. C# is used with Microsoft's .NET platform (although they are planning to release a Mac version, so we will see where this goes)
-* C++ - is a compiled language used often in software and application development, and allows lower level access to the computer.
+* PHP (https://secure.php.net/) - is an interpreted language that has grown up with the web, and the newest version, PHP7, is much more solid than older versions.  The nice thing about PHP is it is not compiled, so it has a low bar to entry (like Javascript.) Also, much of the web is using PHP, so having some experience with PHP may help you get work later on.
+* Java (https://www.java.com/en/) - is a compiled language that is cross platform, it takes a little more to get setup with Java.  But due to it being cross platform, it is a good choice for development on the web
+* C# (https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - is a compiled language, and is currently a Microsoft only language. C# is used with Microsoft's .NET platform (although they are planning to release a Mac version, so we will see where this goes)
+* C++ (http://www.cplusplus.com/info/description/) - is a compiled language used often in software and application development, and allows lower level access to the computer.
 
 Also, you may want to read up on Compiled versus Interpreted languages, to have a good understanding of what those terms mean.
 
@@ -92,6 +96,7 @@ Testing
 Definitely an important topic, testing helps you define your software, and allow you to do things more easily, like adding features or refactoring
 
 * TDD (Test Driven Development)
+  * https://www.agilealliance.org/glossary/tdd/
 * Unit tests
 * End to end testing
 * UI testing
@@ -102,9 +107,14 @@ Process and workflow
 --------------------
 
 * Version control and merge requests
+  * GIT: https://git-scm.com/
+  * Github (which one way to use with Git): https://github.com/
 * IDE (integrated development environment)
-* Code reviews
-* Pair programming
+* Code reviews https://smartbear.com/learn/code-review/what-is-code-review/
+* Pair programming https://www.agilealliance.org/glossary/pairing/
+* Extreme programming http://www.extremeprogramming.org/
+* Agile http://agilemanifesto.org/
+* Scrum https://www.scrumalliance.org/why-scrum
 
 
 Practice! Practice! Practice!
@@ -116,9 +126,21 @@ Practice! Practice! Practice!
   * Go out and learn each piece, as you come to it
   * Use your mentor or a user group to help you through the tough spots!
 * Code katas
+  * http://exercism.io/
 * Contribute to open source (usually via github)
+  * https://github.com/open-source-society
 * Online learning and education (usually in the form of videos)
+  * https://www.freecodecamp.com/
+  * https://www.pluralsight.com/
+  * Lynda: http://www.lynda.com
+  * Udemy: https://www.udemy.com
 * Ebooks
+  * Apress: http://www.apress.com
+  * Packt publishing: https://www.packtpub.com
+  * O’Reilly: http://www.oreilly.com
+  * Safari books online: https://www.safaribooksonline.com/
+  * Smashing Magazine books: http://www.smashingmagazine.com/books/
+  * A List Apart books: http://abookapart.com
 * Youtube, of course!
 
 
@@ -128,9 +150,32 @@ Community is essential!
 A strong support network and community will launch you farther and faster, so it is very important!
 
 * Meetups and tech events
+  * Meetup.com: https://www.meetup.com/find/events/?allMeetups=false&keywords=tech
+  * SEMjs: https://www.meetup.com/SEM-JS/
+  * Girl Develop It: https://www.girldevelopit.com/
 * Online forums and sites
-* Conferences
+  * A List Apart: http://alistapart.com
+  * Smashing Magazine: http://www.smashingmagazine.com
+  * Site Point: http://www.sitepoint.com
+  * CSS zen garden: http://csszengarden.com
+  * HTML5 Rocks: http://www.html5rocks.com/en/
+  * CSS Tricks: https://css-tricks.com
+  * Stackoverflow: https://stackoverflow.com/
+  * Reddit: https://www.reddit.com/r/programming/
+* Conferences (great for networking and learning; keep in mind that many of these conferences releaes their talks in videos after the event has ended, so you don't always have to go to the conference to gain benefits)
+  * Oscon: https://conferences.oreilly.com/oscon/oscon-tx
+  * Fluent: https://conferences.oreilly.com/fluent/fl-ca
+  * JS conf (multiple JS conferences) http://jsconf.com/
+  * React: http://conf.reactjs.org/
+  * Codemash: http://codemash.org
+  * Self Conf: http://selfconference.org/
+  * That conference: https://www.thatconference.com
 * Podcasts
+  * Javascript Jabber: http://devchat.tv/js-jabber
+  * Hansel Minutes: http://hanselminutes.com
+  * The Web Ahead: http://5by5.tv/webahead
+  * The Big Web Show: http://5by5.tv/bigwebshow
+  * Shoptalk: http://shoptalkshow.com
 * Hackathons
 * Tap your coworkers too!
 
