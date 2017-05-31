@@ -24,7 +24,7 @@ Pick any language that interests you to get started.  If you are interested and 
 Here are a few recommendations, if you really have no idea what to try out.
 
 ### General purpose ###
-* Python (https://www.python.org/) - is a complied language; many people really love the ease of use and straightforwardness of Python, so I recommend it as a good starting language.  Python is used at the command line, but it is pretty easy to get started with.
+* Python (https://www.python.org/) - is an interpreted/byte-compiled language; many people really love the ease of use and straightforwardness of Python, so I recommend it as a good starting language.  Python is used at the command line, but it is pretty easy to get started with.
 
 
 ### Frontend ###
