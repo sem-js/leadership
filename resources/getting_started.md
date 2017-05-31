@@ -53,7 +53,7 @@ Most of the very basic programming concepts are available in any modern language
 * Control structures
 * Variables
 * Data types
-* functions
+* Functions
 
 
 Architecture and Design
@@ -107,7 +107,9 @@ Process and workflow
 --------------------
 
 * Version control and merge requests
-  * GIT: https://git-scm.com/
+  * GIT:
+    * https://git-scm.com/
+    * https://www.atlassian.com/git/tutorials
   * Github (which one way to use with Git): https://github.com/
 * IDE (integrated development environment)
 * Code reviews https://smartbear.com/learn/code-review/what-is-code-review/
