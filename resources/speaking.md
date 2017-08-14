@@ -37,7 +37,7 @@ When writing a proposal for a talk, here are some things to think about
 * Keep the proposal brief, but engaging!
 * Think about your audience
 * Write more than one, if you have that option!  You never know which one may appeal to the reviewers
-* Follow the rules for the proposals, and have someone proofread your submission
+* Follow the rules for the call for proposal for the conference you want to speak at, and have someone proofread your submission
 * Show, don't tell
 * Be concise, to the point, and clear with your wording
 * Resource Links:
