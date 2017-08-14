@@ -9,6 +9,20 @@ Currently, two talk formats are available (although we are thinking of adding a 
 * lightning talk - this is a short format talk, typically between 5-15 minutes
 * full length talk - this talk is a full length talk, typically 60-90 minutes
 
+Topic ideas and generation:
+---------------------------
+Stuck on a topic?  Try these ideas!
+* Brainstorm! (I know, very cliche!)  But, REALLY brainstorm, don't censor yourself, and just get all those ideas out on paper!  Your best idea might be the one after you have gotten all the crazy/silly/dumb ones out of the way
+* Pick a topic on something you want to learn about it, and learn while you write the talk (works best if you have some time on your hands)
+* Or go with what you know, something you do all the time, and are quite knowledgable in
+* Pick something on the fringe, which people may not know about
+* Or pick something everyone is talking about, and speak at it from your angle
+* Dispute something that people think is common knowledge
+* Or discuss a best practice, why it may be a best practice now, and also why it maybe should not be a best practice
+* Keep in mind, a talk is a starting place for a wider community discussion, so think about the things you would like to talk about with the community
+* Make them THINK! (The audience, that is!)
+* Or make them laugh :)
+
 Writing/research:
 -----------------
 * Everyone has a unique angle on any topic, so you always have something to bring to a subject
@@ -16,6 +30,22 @@ Writing/research:
 * Write an outline first (before slides), and keep your topic focused; all your points should support your main topic
 * If any of your points are not directly supporting your main topic, cut them! This is like the acts in a play; they always support the conclusion of the play
 * Try telling a story (beginning, middle, end), or give a process with steps (1, 2, 3)
+
+Writing a proposal:
+-------------------
+When writing a proposal for a talk, here are some things to think about
+* Keep the proposal brief, but engaging!
+* Think about your audience
+* Write more than one, if you have that option!  You never know which one may appeal to the reviewers
+* Follow the rules for the proposals, and have someone proofread your submission
+* Show, don't tell
+* Be concise, to the point, and clear with your wording
+* Resource Links:
+  * http://www.ignitetalks.io/
+  * http://www.oreilly.com/conferences/sample_proposals.html
+  * https://www.oratium.com/how-to-write-a-conference-speaking-or-session-proposal-that-gets-chosen-every-time/
+  * https://dave.cheney.net/2017/02/12/how-to-write-a-successful-conference-proposal
+  * https://medium.com/@fox/how-to-write-a-successful-conference-proposal-4461509d3e32
 
 Slides:
 -------
@@ -76,4 +106,3 @@ Tools:
 	* https://slides.com/
 * Emacs for slides: http://cestlaz.github.io/posts/using-emacs-11-reveal/#.WFw-4bYrK2x
 * Presenter remote: https://www.amazon.com/Logitech-Wireless-Presenter-Presentation-Pointer/dp/B002GHBUTK
-
